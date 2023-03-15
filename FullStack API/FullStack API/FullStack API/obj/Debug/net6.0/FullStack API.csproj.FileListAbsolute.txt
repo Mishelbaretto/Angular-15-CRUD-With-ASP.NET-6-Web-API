@@ -1,0 +1,68 @@
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\appsettings.Development.json
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\appsettings.json
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\FullStack API.exe
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\FullStack API.deps.json
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\FullStack API.runtimeconfig.json
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\FullStack API.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\FullStack API.pdb
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Humanizer.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.csproj.AssemblyReference.cache
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.AssemblyInfoInputs.cache
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.AssemblyInfo.cs
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.csproj.CoreCompileInputs.cache
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.MvcApplicationPartsAssemblyInfo.cs
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\staticwebassets\msbuild.FullStack API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\staticwebassets\msbuild.build.FullStack API.props
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FullStack API.props
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FullStack API.props
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\staticwebassets.build.json
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\staticwebassets.development.json
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\scopedcss\bundle\FullStack API.styles.css
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.csproj.CopyComplete
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\refint\FullStack API.dll
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.pdb
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\FullStack API.genruntimeconfig.cache
+D:\VisualCodeLearnings\ASP NET6\Angular 15 CRUD With ASP.NET 6 Web API\FullStack API\FullStack API\FullStack API\obj\Debug\net6.0\ref\FullStack API.dll
